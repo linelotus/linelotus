@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joanna!</h1>
 <h3 align="center">A passionate frontend developer from Texas</h3>
 
-- 🔭 I’m currently working on [Pixel Play Application](https://github.com/linelotus/pixelplayapplication)
+- 🔭 I’m currently working on [Client Site]([https://github.com/linelotus/pixelplayapplication](https://github.com/linelotus/design-haven-portfolio))
 
 - 🌱 I’m currently learning **PHP**
 
